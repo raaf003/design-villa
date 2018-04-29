@@ -9,6 +9,7 @@ import com.example.android.splashscreenjava.R;
 import com.google.android.gms.common.SignInButton;
 
 import udacity.designvilla.Util.SystemBarColorScheme;
+import udacity.designvilla.home.HomeActivity;
 
 
 public class LoginActivity extends AppCompatActivity {
