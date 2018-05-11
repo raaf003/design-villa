@@ -36,7 +36,7 @@
         <item name="android:layout_width">wrap_content</item>
     </style>
 
-<style name="Toolbar.Light" parent="@style/AppTheme">
+    <style name="Toolbar.Light" parent="@style/AppTheme">
         <item name="colorControlNormal">@color/grey_60</item>
         <item name="android:textColorPrimary">@color/grey_60</item>
     </style>
